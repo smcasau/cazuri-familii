@@ -1,0 +1,14 @@
+{
+    "cases": [
+        {
+            "image": "images/family1.jpg",
+            "title": "Familia Popescu",
+            "description": "Descriere caz..."
+        },
+        {
+            "image": "images/family2.jpg",
+            "title": "Familia Ionescu",
+            "description": "Alt caz..."
+        }
+    ]
+}
